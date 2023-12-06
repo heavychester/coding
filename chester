@@ -1,11 +1,36 @@
 <!doctype html>
 <html>
 <head>
-<title>Our Funky HTML Page</title>
 <meta name="description" content="Our first page">
 <meta name="keywords" content="html tutorial template">
 </head>
 <body>
-Content goes here.
+<center><link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900|Roboto:300" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"><link rel="stylesheet" href="http://nevermore.b1.jcink.com/uploads/nevermore/truelove.css"><style type="text/css">
+
+#jax .truelove5b i, #jax .truelove6b, #jax .truelove6d i { color: #75859a; }
+#jax .truelove2c { background: linear-gradient(to bottom, #75859a 0%,#75859a 100%); }
+#jax .tlbubble { background-color: #75859a; }
+#jax .tlbubble:after { border-color: transparent #75859a; }
+
+</style><div id="jax">
+<div class="truelove1"><div class="truelove2"><div class="truelove2a"><i class="fa fa-wifi"></i><i class="fa fa-signal"></i> 12:00</div><div class="truelove3a">
+
+<img src="https://i.imgsafe.org/aa80948.gif">
+
+<div class="truelove3"></div></div><div class="truelove4">
+
+<span>Jax</span>
+<br>to <b>Bea</b>
+
+</div><div class="truelove5"><table cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td><div class="truelove5a"><a href="http://shine.jcink.net/index.php?showuser=3019"><div class="truelove5b"><i class="fa fa-envelope"></i></div></a></div></td><td><div class="truelove6">
+
+<div class="tlbubble">no girl tonight, just my friend jack daniels</div>
+<div class="tlbubble">and if you're so bored, why aren't you out slumming with me now instead of waiting for me to blow up your phone after i'm already hammered?</div>
+<div class="tlbubble">i've blocked portia out of my memory completely, didn't even remember that was her name until just now</div>
+<div class="tlbubble">but here's a toast to you keeping my dating life in order and bringing up a+ memories</div>
+<div class="tlbubble">seriously why aren't you here to take this shot with me again? gonna have to take two</div>
+
+</div><div class="truelove6a"><table cellpadding="0" cellspacing="0"><tbody><tr><td><div class="truelove6c">Send Message...</div></td><td><div class="truelove6d"><i class="fa fa-send"></i></div></td></tr></tbody></table></div></td></tr></tbody></table></div><div class="truelove2b"></div><div class="truelove2c"></div></div></div></div></center>
 </body>
 </html>
